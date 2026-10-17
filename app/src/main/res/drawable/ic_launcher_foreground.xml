@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer glowing shield silhouette -->
+    <path
+        android:fillColor="#00E5FF"
+        android:fillAlpha="0.18"
+        android:pathData="M54,22L28,33V52C28,69.5 39.1,85.6 54,90C68.9,85.6 80,69.5 80,52V33L54,22Z" />
+    <!-- Crisp shield border + inner Ghost/Lens silhouette -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,25.5L31.5,35V52C31.5,67.2 41.1,81.2 54,85.2C66.9,81.2 76.5,67.2 76.5,52V35L54,25.5ZM54,30.2L72.5,38V52C72.5,64.8 64.6,76.8 54,80.6C43.4,76.8 35.5,64.8 35.5,52V38L54,30.2Z" />
+    <!-- Bold Ghost + Search Magnifier Core Silhouette -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M51,38C43.82,38 38,43.82 38,51C38,60.5 38,67 38,67L42.3,63.5L46.6,67L51,63.5L55.4,67L59.7,63.5L64,67C64,67 64,60.5 64,51C64,43.82 58.18,38 51,38ZM46.5,49.5C45.12,49.5 44,48.38 44,47C44,45.62 45.12,44.5 46.5,44.5C47.88,44.5 49,45.62 49,47C49,48.38 47.88,49.5 46.5,49.5ZM55.5,49.5C54.12,49.5 53,48.38 53,47C53,45.62 54.12,44.5 55.5,44.5C56.88,44.5 58,45.62 58,47C58,48.38 56.88,49.5 55.5,49.5Z" />
+    <!-- Search lens handle accent -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M61.5,59.5L70.5,68.5L67.5,71.5L58.5,62.5Z" />
+</vector>

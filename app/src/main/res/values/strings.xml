@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GhostSearch</string>
+    <string name="tagline_ephemeral_browser">Privacy-First Ephemeral Search &amp; Workspace</string>
+    <string name="session_ephemeral_active">RAM-Only Session Active</string>
+    <string name="clear_session">Clear Session</string>
+    <string name="search_placeholder">Search privately or enter HTTPS URL…</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_navigate_url">Open URL</string>
+    <string name="tab_search">Search &amp; Browse</string>
+    <string name="tab_workspace">Secure Docs</string>
+    <string name="tab_downloads">Safe Downloads</string>
+    <string name="tab_privacy_audit">Privacy &amp; Security</string>
+    <string name="provider_disclosure_prefix">Active Provider Disclosure:</string>
+    <string name="honest_privacy_notice">GhostSearch stores zero search history, URLs, or drafts on disk. However, DNS resolvers, ISPs, chosen search engines, target websites, OS caches, and downloaded files remain outside application control.</string>
+    <string name="workspace_title">Zero-Autosave Document Workspace</string>
+    <string name="workspace_subtitle">Drafts exist exclusively in volatile RAM. No cloud sync, no spell-check telemetry, no local database writes.</string>
+    <string name="downloads_title">Safe One-Click HTTPS Downloads</string>
+    <string name="downloads_subtitle">Strict URL validation, SSRF private-network blocking, path-traversal sanitization, and executable file guardrails.</string>
+    <string name="audit_title">Privacy &amp; Security Architecture</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "GhostSearch",
+  "description": "A lightweight, privacy-first search browser with ephemeral memory-only sessions, hardened WebView isolation, a zero-autosave secure document workspace, and a safe one-click HTTPS download manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

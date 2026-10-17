@@ -1,0 +1,43 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Obsidian Cyber-Minimalist Dark Palette
+val GhostObsidianBg = Color(0xFF090D16)
+val GhostObsidianSurface = Color(0xFF111827)
+val GhostObsidianSurfaceVariant = Color(0xFF1E293B)
+val GhostCyanPrimary = Color(0xFF00E5FF)
+val GhostCyanContainer = Color(0xFF083344)
+val GhostOnCyanContainer = Color(0xFFCFFAFE)
+val GhostEmeraldSecondary = Color(0xFF10B981)
+val GhostEmeraldContainer = Color(0xFF064E3B)
+val GhostOnEmeraldContainer = Color(0xFFD1FAE5)
+val GhostAmberTertiary = Color(0xFFF59E0B)
+val GhostAmberContainer = Color(0xFF451A03)
+val GhostOnAmberContainer = Color(0xFFFEF3C7)
+val GhostRoseError = Color(0xFFF43F5E)
+val GhostRoseErrorContainer = Color(0xFF4C0519)
+val GhostOnRoseErrorContainer = Color(0xFFFFE4E6)
+val GhostSlateTextPrimary = Color(0xFFF8FAFC)
+val GhostSlateTextSecondary = Color(0xFF94A3B8)
+val GhostSlateOutline = Color(0xFF334155)
+
+// Arctic Daylight Light Palette
+val GhostLightBg = Color(0xFFF8FAFC)
+val GhostLightSurface = Color(0xFFFFFFFF)
+val GhostLightSurfaceVariant = Color(0xFFE2E8F0)
+val GhostLightPrimary = Color(0xFF0284C7)
+val GhostLightPrimaryContainer = Color(0xFFE0F2FE)
+val GhostLightOnPrimaryContainer = Color(0xFF0C4A6E)
+val GhostLightSecondary = Color(0xFF059669)
+val GhostLightSecondaryContainer = Color(0xFFD1FAE5)
+val GhostLightOnSecondaryContainer = Color(0xFF064E3B)
+val GhostLightTertiary = Color(0xFFD97706)
+val GhostLightTertiaryContainer = Color(0xFFFEF3C7)
+val GhostLightOnTertiaryContainer = Color(0xFF78350F)
+val GhostLightError = Color(0xFFE11D48)
+val GhostLightErrorContainer = Color(0xFFFFE4E6)
+val GhostLightOnErrorContainer = Color(0xFF881337)
+val GhostLightTextPrimary = Color(0xFF0F172A)
+val GhostLightTextSecondary = Color(0xFF475569)
+val GhostLightOutline = Color(0xFFCBD5E1)
